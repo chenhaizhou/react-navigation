@@ -38,7 +38,7 @@
     "react-native-drawer-layout-polyfill": "^1.3.2",
     "react-native-safe-area-view": "git+https://github.com/snsdigitaldevs/react-native-safe-area-view.git#v0.14.7",
     "react-navigation-deprecated-tab-navigator": "1.2.0",
-    "react-navigation-tabs": "git+https://github.com/snsdigitaldevs/tabs.git#v0.4.0-custom"
+    "react-navigation-tabs": "0.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
