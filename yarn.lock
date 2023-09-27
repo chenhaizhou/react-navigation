@@ -4881,9 +4881,9 @@ react-native-drawer-layout@1.3.2:
   dependencies:
     react-native-dismiss-keyboard "1.0.0"
 
-react-native-safe-area-view@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/react-native-safe-area-view/-/react-native-safe-area-view-0.7.0.tgz#38f5ab9368d6ef9e5d18ab64212938af3ec39421"
+"react-native-safe-area-view@git+https://github.com/chenhaizhou/react-native-safe-area-view.git#rn-up-67":
+  version "0.14.6"
+  resolved "git+https://github.com/chenhaizhou/react-native-safe-area-view.git#e3c0b03c4307de47472d61143f1ba10ebc60b6d4"
   dependencies:
     hoist-non-react-statics "^2.3.1"
 
@@ -4972,14 +4972,14 @@ react-navigation-deprecated-tab-navigator@1.2.0:
   dependencies:
     react-native-tab-view "^0.0.74"
 
-react-navigation-tabs@0.2.0:
+"react-navigation-tabs@git+https://github.com/chenhaizhou/react-navigation-tabs.git#rn-up-67":
   version "0.2.0"
-  resolved "https://registry.yarnpkg.com/react-navigation-tabs/-/react-navigation-tabs-0.2.0.tgz#d25be64e01a728c893a93cfeee6b176ab74d67de"
+  resolved "git+https://github.com/chenhaizhou/react-navigation-tabs.git#f1cf28c050f38b8259003876b78ecb3d494921b7"
   dependencies:
     hoist-non-react-statics "^2.5.0"
     prop-types "^15.6.0"
     react-lifecycles-compat "^1.0.2"
-    react-native-safe-area-view "^0.7.0"
+    react-native-safe-area-view "git+https://github.com/chenhaizhou/react-native-safe-area-view.git#rn-up-67"
     react-native-tab-view "~0.0.77"
 
 react-proxy@^1.1.7:
